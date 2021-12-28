@@ -11,13 +11,13 @@
 
 linux: https://blog.csdn.net/weixin_43893397/article/details/102636437
 
-windows 10: https://blog.csdn.net/weixin_44584095/article/details/86563763
+Windows 10: https://blog.csdn.net/weixin_44584095/article/details/86563763
 
 2. Install zookeeper
 
 linux: https://www.cnblogs.com/expiator/p/9853378.html
 
-windows10: https://blog.csdn.net/qq_33316784/article/details/88563482
+Windows10: https://blog.csdn.net/qq_33316784/article/details/88563482
 
 ## Launch：
 
